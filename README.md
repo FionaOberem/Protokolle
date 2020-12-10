@@ -4,8 +4,9 @@ Es ist zu beachten, dass die Empfehlung des WPAF keine Aussage über die tatsäc
 Entsprechende Informationen sind im FID zu finden, und können beim Fachschaftenreferat erfragt werden.
 
 ### Laufende Wahlprüfungen
-- Meteorologie (Vorlage an FK)
-- Agrarwissenschaften (unvollständig)
-- Geographie (ausstehend)
-- Politik und Soziologie (ausstehend)
-- Kulturanthroplogie (ausstehend)
+- Meteorologie (Neuwahl)
+- Pharmazie (in Prüfung)
+- Geographie (in Prüfung)
+- Politik und Soziologie (in Prüfung)
+- Kulturanthroplogie (Neuwahl)
+- IKM (Neuwahl)
