@@ -9,4 +9,4 @@ Entsprechende Informationen sind im FID zu finden, und können beim Fachschaften
 - Geographie (in Prüfung)
 - Politik und Soziologie (in Prüfung)
 - Kulturanthroplogie (Neuwahl)
-- IKM (Neuwahl)
+- KGM (ehemals IKM) (Neuwahl)
