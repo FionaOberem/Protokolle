@@ -5,8 +5,7 @@ Entsprechende Informationen sind im FID zu finden, und können beim Fachschaften
 
 ### Laufende Wahlprüfungen
 - Meteorologie (Neuwahl)
-- Pharmazie (in Prüfung)
-- Geographie (in Prüfung)
+- Pharmazie (Neuwahl)
 - Politik und Soziologie (in Prüfung)
 - Kulturanthroplogie (Neuwahl)
 - KGM (ehemals IKM) (Neuwahl)
